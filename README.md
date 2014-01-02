@@ -1,4 +1,4 @@
-Rabobank bank statement to YNAB file format.
+Rabobank bank statement to YNAB.
 =================
 This script formats the Dutch Rabobank CSV format for bank statements so it can be imported by YouNeedABudget.
 
